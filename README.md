@@ -13,7 +13,7 @@ This repository established as an online appendix contains the data of our study
     |   ├── test.arff
     |   ├── train.arff
     |   ├── train_balanced.arff
-    |   ├── train_balanced_sub.arff
+    |   └── train_balanced_sub.arff
     ├── bucket2
     ├── bucket3
     ├── ...
